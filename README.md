@@ -8,6 +8,12 @@ The system parses the input regex, constructs a syntax tree (AST), computes posi
 
 ---
 
+## 🖼️ Screenshots
+
+![Main GUI Screenshot](Screenshot%202026-03-25%20144038.png)
+
+---
+
 ## 👥 Team Members
 
 * **Yassmin Ahmed** – ID: 231001654
@@ -208,11 +214,6 @@ python task4_gui.py
 
 ---
 
-## 🖼️ Screenshots
-
-*(Add screenshots of GUI, DFA graph, followpos table, etc.)*
-
----
 
 ## ⚠️ Notes
 
